@@ -2,9 +2,9 @@
 class DB {
 
 	private static $conf = array('host' => 'localhost',
-								 'user' => 'root',
-								 'pass' => '',
-								 'db'   => 'zm_tracker');
+								 'user' => 'alnwick_zm',
+								 'pass' => '65xEWasw3bRAtAp',
+								 'db'   => 'alnwick_zm');
 
 	private static $connection;
 	
